@@ -1,6 +1,6 @@
 
 ## Welcome to Iridescence Apps
-***A collection of Fun Educational Apps for Kids to learn and write English Alphabets, Numbers, Words and Draw Shapes🎨***
+**A collection of Fun Educational Apps for Kids to learn and write English Alphabets, Numbers, Words and Draw Shapes🎨**
 <br/>
 
 
