@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+## Welcome to Iridescence Apps
 
-You can use the [editor on GitHub](https://github.com/iridescence-apps/iridescence-apps.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 123 Writing and Learning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**123 - Write and Learn Numbers for Kids** for kids who want to learn numbers and sounds 🔊 Kindergarten education with free learning games for toddlers and Pre-school kids!
 
-```markdown
-Syntax highlighted code block
+[Download App](https://play.google.com/store/apps/details?id=com.iridescence.drawing.numbers)
 
-# Header 1
-## Header 2
-### Header 3
+---
+###  ABC Writing, Drawing, and Learning
 
-- Bulleted
-- List
+**ABC - Writing, Drawing, and Learning** for kids who want to learn letters and sounds 🔊 of the whole alphabet! Kindergarten education with free learning games for toddlers and Pre-school kids.!
 
-1. Numbered
-2. List
+[Download App](https://play.google.com/store/apps/details?id=com.iridescence.drawing.abc)
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+### ABC, 123, Words and Shapes Learning for Kids
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**ABC, 123, Words and Shapes Learning** for kids who want to learn letters, numbers wirg sounds 🔊 and draw shapes! Kindergarten education with free learning games for toddlers and Pre-school kids!
 
-### Jekyll Themes
+[Download App](https://play.google.com/store/apps/details?id=com.iridescence.drawing.megaapp)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iridescence-apps/iridescence-apps.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+###  Two Letter Words with Sounds for Kids
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Two Letter Words with Sounds for Kids** allows your child to learn two Letter words and trace and learn twp letter English words. Kindergarten education with free learning games for toddlers and Pre-school kids!
+
+[Download App](https://play.google.com/store/apps/details?id=com.iridescence.drawing.twoletter)
+
+---
+###  Three Letter Words with Sounds for Kids
+
+**Three Letter Words with Sounds for Kids** allows your child to learn three Letter words and trace and learn twp letter English words. Kindergarten education with free learning games for toddlers and Pre-school kids!
+
+[Download App](https://play.google.com/store/apps/details?id=com.iridescence.drawing.threeletter)
+
+---
+###  Four Letter Words with Sounds for Kids
+
+**Four Letter Words with Sounds for Kids** allows your child to learn four Letter words and trace and learn twp letter English words. Kindergarten education with free learning games for toddlers and Pre-school kids!
+
+[Download App](https://play.google.com/store/apps/details?id=com.iridescence.drawing.fourletter)
+
+---
+
+### Draw and Colour Shapes
+
+**Draw and Colour Shapes for Kids** allows your child can learn shapes and play shape games. Kindergarten education with free learning games for toddlers and Pre-school kids!
+
+[Download App](https://play.google.com/store/apps/details?id=com.iridescence.drawing.basicshapes)
+
+---
+
+###  Learn Consonant Vowel Consonant (CVC) Words for Kids
+
+ **Learn Consonant Vowel Consonant (CVC) Words for Kids** has CVC (Consonant Vowel Consonant) words to improve and help kids to learn and read English words. CVC Words play an important step in practicing phonics and learning how to read. Words will be pronounced from the speaker as well to allow quick and easy learning. Very helpful for preschool, kindergarten, and nursery kids
+
+[Download App](https://play.google.com/store/apps/details?id=com.iridescence.drawing.cvc)
+
+---
+
+###  Learn Two, Three, Four Letter Words for Kids
+
+**2, 3, 4 Letter Words with Sounds for Kids** allows your child to learn Two Letter words and trace and learn twp letter English words. Kindergarten education with free learning games for toddlers and Pre-school kids!
+
+[Download App](https://play.google.com/store/apps/details?id=com.iridescence.drawing.letterwords)
+
+---
